@@ -1,0 +1,31 @@
+Name: Md Najib Murshed
+Id: 20266009
+
+Dan Jurafsky course on NLP on YouTube done as extra credit. The topics covered were:
+- Word Tokenization
+- Word Normalization
+- Sentence segmentation
+- String similarity (Min/Weighted edit distance)
+- Word Normalization and stemming
+- Sentence segmentation
+- Probabilistic language modeling (N-grams)
+- Perplexity evaluation of language models
+- Generalization and handling of non-existancy training tuples, using techniques like Add-one smoothing, Good Turing smoothing and Kneser Ney Smoothing
+- Language model evaluation based on interpolation
+- Spelling correction as an evaluation task of language models
+- Text classification using Naive Bayes
+- Sentiment Analysis, and author identification using feature extraction
+- Relationship between Naive Bayes and Language Models
+- Text classification testing using precision, recall and F measure
+- Text classification evaluation: Macro averaging and Micro averaging
+- Baseline algorithm for sentiment analysis using Tokenization, Feature extraction and classifiers like Naive Bayes, SVM and MaxEnt
+- Using semi-supervised learning to form custom lexicons: Turney Algorithm
+- Generative vs Discriminative Language models
+- Feature based linear classifiers
+- Maximum entropy sequence models
+- Relation extractions using patterns in supervised, semi-supervised and unsupervised learning
+- Parts of speech tagging
+- Syntactic structure: Constituents vs Dependent
+- Context free grammar and probabilistic context free grammar
+- CKY Parsing (Cocke-Kasami-Younger)
+- Word similarity using Thesaurus methods
